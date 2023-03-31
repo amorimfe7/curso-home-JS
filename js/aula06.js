@@ -30,4 +30,22 @@ let n1 = 7.5
 let n2 = 5.8
 let n3 = 8.0
 let notaFinal = n1+n2+n3
-document.write("Nota Final " + notaFinal + '<br>')
+document.write("Nota Final " + notaFinal + '<hr>')
+
+//========================DESAFIOS=========================
+
+//Variáveis
+let lutador = 'David Boxing'
+let nacionalidade = 'Brasileiro'
+let idade = 20
+let pesoLutador = 80
+let alturaLutador = 1.72
+
+
+
+const dia = 31
+const mes = 03
+const ano = 2023
+let frase = 'Seja curioso. Leia tudo. Tente coisas novas. O que as pessoas chamam de inteligência se resume a curiosidade. <br> Aaron Swartz'
+
+
